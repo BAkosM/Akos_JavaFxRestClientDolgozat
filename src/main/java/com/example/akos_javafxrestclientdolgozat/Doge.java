@@ -61,5 +61,8 @@ public class Doge {
     public void setGay(Boolean gay) {
         this.gay = gay;
     }
+    public boolean isGay() {
+        return gay;
+    }
 
 }
